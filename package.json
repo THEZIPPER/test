@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "gitbook-plugin-ancre-navigation": "^1.0.0",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
+    "gitbook-plugin-page-toc-button": "^0.1.1",
+    "gitbook-plugin-page-treeview": "^3.0.6",
+    "gitbook-plugin-summary": "^1.1.0"
+  }
+}
